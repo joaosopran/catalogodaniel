@@ -15,11 +15,11 @@ body {
     justify-content:center;
     align-items: center;
     min-height: 100vh;
-    background: #000000c9
+    background-color: black;
 }
 
 .logo {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.818);
     text-align: center;
 }
 
@@ -28,10 +28,6 @@ p {
     color: white;
 }
 
-.logo p:hover{
-    color: var(--cor1);
-    cursor: pointer;
-}
 
 .section h1 {
     display: block; 
